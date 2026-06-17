@@ -1,9 +1,9 @@
 Prediccion-Resistencia-Concreto
 │
 ├── README.md
-├── data/
-│   └── Concrete_Data.csv
-├── informe/
-│   └── Informe_Inicial.docx
-├── notebooks/
-└── src/
+├── Data/
+│   └── Concrete_Readme.txt
+├── Informe/
+│   └── Informe_Inicial_Definición del Problema, Datos y Marco PCS.docx
+├── Notebooks/
+└── SRC/
