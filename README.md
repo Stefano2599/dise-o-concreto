@@ -130,7 +130,7 @@ Métricas consideradas:
 
 # 6. Aplicación del Marco PCS
 
-## Predictability (Predictibilidad)
+## Predictibilidad
 
 La resistencia del concreto depende directamente de la cantidad y proporción de sus componentes, así como de la edad de curado.
 
@@ -138,7 +138,7 @@ Debido a la existencia de relaciones físicas y químicas conocidas entre estas 
 
 ---
 
-## Computability (Computabilidad)
+## Computabilidad
 
 El dataset contiene únicamente 1030 observaciones y 8 variables explicativas.
 
@@ -153,7 +153,7 @@ Los requerimientos computacionales son bajos y pueden ejecutarse en computadoras
 
 ---
 
-## Stability (Estabilidad)
+## Estabilidad
 
 La estabilidad del modelo será evaluada mediante:
 
@@ -182,7 +182,7 @@ El objetivo es garantizar que pequeñas variaciones en los datos no generen camb
 
 # 8. Estructura del Proyecto
 
-
+```
 Proyecto-Concreto/
 │
 ├── README.md
@@ -204,7 +204,7 @@ Proyecto-Concreto/
 └── results/
     ├── graficos/
     └── modelos/
-
+```
 
 ---
 
