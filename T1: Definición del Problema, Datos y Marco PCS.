@@ -1,0 +1,9 @@
+Prediccion-Resistencia-Concreto
+│
+├── README.md
+├── data/
+│   └── Concrete_Data.csv
+├── informe/
+│   └── Informe_Inicial.docx
+├── notebooks/
+└── src/
